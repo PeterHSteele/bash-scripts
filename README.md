@@ -2,7 +2,7 @@
 command line utilities
 
 rmzip: When used on a directory,
-1. copies the _directory_ to _directory_-dev 
+1. copies _directory_ to _directory_-dev 
 2. removes .git, .gitignore, and scraps/ from _directory_.
 3. creates _directory_.zip 
 
